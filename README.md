@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 My name is Ramin Mohammadi.
 I’m an Adjunct Professor at Northeastern University in the College of Engineering, where my work revolves around the exciting fields of Machine Learning (ML), Natural Language Processing (NLP), and MLOps, particularly with a focus on their applications in healthcare.
 
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
