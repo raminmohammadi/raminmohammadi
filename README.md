@@ -1,7 +1,14 @@
 ## Hi there 👋
 
 <!--
-**raminmohammadi/raminmohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ramin Mohammadi.
+I’m an Adjunct Professor at Northeastern University in the College of Engineering, where my work revolves around the exciting fields of Machine Learning (ML), Natural Language Processing (NLP), and MLOps, particularly with a focus on their applications in healthcare.
+
+My research primarily centers on the practical use of ML and NLP, with an emphasis on their real-world applications in healthcare and the essential area of healthcare cybersecurity.
+
+In the healthcare domain, I deal with various methodological challenges. These include predicting diseases, making ML models more interpretable, tracking and detecting medical entities, and ensuring the trustworthiness of model outputs. For more details, see Publications.
+
+Another exciting aspect of my research is dedicated to creating language technologies that can automate or semi-automate the detection and protection of Personal Health Identifiable (PHI) information. This work has led to some intriguing developments. For more details, see Tausight.
 
 Here are some ideas to get you started:
 
