@@ -32,6 +32,10 @@ Another exciting aspect of my research is dedicated to creating language technol
  - [Unlocking Data Security: From Data Loss Prevention to AI Revolution](https://www.tausight.com/unlocking-data-security-data-loss-prevention-to-ai/)
 
 
+#### Awards and Achievements
+- Finalist of the Boston Scientific Callenge at Google [Final Round Video](https://www.youtube.com/watch?v=DbMRhB13zmg&t=1s)
+- Akira Yamamura Excellence in Research Award - Northeastern University
+- Achieved PhD Spotlight at Northeastern University - [PhD Spotlight](https://coe.northeastern.edu/news/phd-spotlight-ramin-mohammadi-phd20-industrial-engineering/)
 
 ### Practical AI 273: Using edge models to find sensitive data
 
