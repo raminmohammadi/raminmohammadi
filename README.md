@@ -36,7 +36,7 @@ Another exciting aspect of my research is dedicated to creating language technol
 
 Listen to the episode using the link below:
 
-![Practical AI 273](practical_ai.png)(https://changelog.com/practicalai/273)
+![[Practical AI 273](practical_ai.png)](https://changelog.com/practicalai/273)
 
 [Practical AI 273: Using edge models to find sensitive data](https://changelog.com/practicalai/273)
 
