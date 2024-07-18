@@ -32,4 +32,15 @@ Another exciting aspect of my research is dedicated to creating language technol
  - [Unlocking Data Security: From Data Loss Prevention to AI Revolution](https://www.tausight.com/unlocking-data-security-data-loss-prevention-to-ai/)
 
 
-<audio data-theme="night" data-src="https://changelog.com/practicalai/273/embed" src="https://op3.dev/e/https://cdn.changelog.com/uploads/practicalai/273/practical-ai-273.mp3" preload="none" class="changelog-episode" controls></audio><p><a href="https://changelog.com/practicalai/273">Practical AI 273: Using edge models to find sensitive data</a> – Listen on <a href="https://changelog.com/">Changelog.com</a></p><script async src="//cdn.changelog.com/embed.js"></script>
+### Practical AI 273: Using edge models to find sensitive data
+
+Listen to the episode using the link below:
+
+[Practical AI 273: Using edge models to find sensitive data](https://changelog.com/practicalai/273)
+
+Alternatively, you can play the audio directly:
+
+<audio controls>
+  <source src="https://cdn.changelog.com/uploads/practicalai/273/practical-ai-273.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
