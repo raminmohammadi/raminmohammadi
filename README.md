@@ -4,9 +4,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some cool stuff and Tausight and also am develpoing Gen-AI (IE7374) and NLP (IE7500) courses.
 - 🌱 I’m currently learning so manythings 🤣
-- 👯 I’m looking to collaborate on [!MLOPS](https://github.com/raminmohammadi/MLOps) repo.
+- 👯 I’m looking to collaborate on [MLOPS](https://github.com/raminmohammadi/MLOps) repo.
 - 📫 How to reach me: R.mohammadi@northeastern.edu
-- 👨‍💻  Read more about my projects at Tausight at 
+- 👨‍💻  Read more about my projects at Tausight
+- 🌐 Visti my website for learnig materials on ML and MLOPs [MLwithRamin](https://www.mlwithramin.com/) 
 - ⚡ Fun fact: Love ma 🐶 and 💪
 
 
@@ -21,15 +22,15 @@ In the healthcare domain, I deal with various methodological challenges. These i
 Another exciting aspect of my research is dedicated to creating language technologies that can automate or semi-automate the detection and protection of Personal Health Identifiable (PHI) information. This work has led to some intriguing developments.
 
 
-🎬 Videos
+🎬 [YouTube Channel](https://www.youtube.com/@MLWithRamin)
 - IE 7300 - [Statistical Learning In Engineering](https://www.youtube.com/watch?v=n4O1YGm7gNI&list=PLcS4TrUUc53KRbf5iPBYRb5Vs8TmtVZOK)
 - IE 7374 - [Machine Learning In Operation](https://www.youtube.com/watch?v=KOpbqgvT-10&list=PLcS4TrUUc53LeKBIyXAaERFKBJ3dvc9GZ) 
-
 
 
 📕  Latest Blog Posts
  - [Edge Based AI Solution for Healthcare Organizations](https://www.tausight.com/tausight-edge-based-ai-solution-healthcare-organizations/)
  - [Unlocking Data Security: From Data Loss Prevention to AI Revolution](https://www.tausight.com/unlocking-data-security-data-loss-prevention-to-ai/)
+
 
 
 ### Practical AI 273: Using edge models to find sensitive data
