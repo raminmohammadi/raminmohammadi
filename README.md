@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 
 ✨  About Me
 
-I’m an Adjunct Professor at Northeastern University in the College of Engineering, where my work revolves around the exciting fields of Machine Learning (ML), Natural Language Processing (NLP), and MLOps, particularly with a focus on their applications in healthcare.
+I’m an Adjunct Professor at Northeastern University in the College of Engineering, where my work revolves around the exciting fields of Machine Learning (ML), Natural Language Processing (NLP), MLOps, and Generative AI, with a particular focus on their applications in healthcare.
 
-My research primarily centers on the practical use of ML and NLP, with an emphasis on their real-world applications in healthcare and the essential area of healthcare cybersecurity.
+My research primarily centers on the practical use of ML and NLP, emphasizing their real-world applications in healthcare and the essential area of healthcare cybersecurity. In the healthcare domain, I tackle various methodological challenges, including predicting diseases, making ML models more interpretable, tracking and detecting medical entities, and ensuring the trustworthiness of model outputs.
 
-In the healthcare domain, I deal with various methodological challenges. These include predicting diseases, making ML models more interpretable, tracking and detecting medical entities, and ensuring the trustworthiness of model outputs. 
+A significant aspect of my work is dedicated to developing innovative language technologies that automate or semi-automate the detection and protection of Personal Health Identifiable (PHI) information. This endeavor has led to some fascinating developments that contribute to enhancing healthcare data security.
 
-Another exciting aspect of my research is dedicated to creating language technologies that can automate or semi-automate the detection and protection of Personal Health Identifiable (PHI) information. This work has led to some intriguing developments.
+Beyond academia, I am passionate about bridging the gap between cutting-edge research and practical implementations. My projects aim to make a tangible impact, from improving patient outcomes through predictive analytics to securing sensitive healthcare information.
+
+Explore my repositories to find projects that showcase my work in ML, NLP, MLOps, and Generative AI, and feel free to reach out for collaboration or discussions on these thrilling subjects. Let's drive innovation and make a difference together!
 
 
 🎬 [YouTube Channel](https://www.youtube.com/@MLWithRamin)
