@@ -40,7 +40,3 @@ Listen to the episode using the link below:
 
 [Practical AI 273: Using edge models to find sensitive data](https://changelog.com/practicalai/273)
 
-<audio controls>
-  <source src="https://cdn.changelog.com/uploads/practicalai/273/practical-ai-273.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
