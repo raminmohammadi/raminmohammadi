@@ -26,6 +26,8 @@ Another exciting aspect of my research is dedicated to creating language technol
 - IE 7374 - [Machine Learning In Operation](https://www.youtube.com/watch?v=KOpbqgvT-10&list=PLcS4TrUUc53LeKBIyXAaERFKBJ3dvc9GZ) 
 
 
-📕  Latest Blog Posts
 
+📕  Latest Blog Posts
+ - [Edge Based AI Solution for Healthcare Organizations](https://www.tausight.com/tausight-edge-based-ai-solution-healthcare-organizations/)
+ - [Unlocking Data Security: From Data Loss Prevention to AI Revolution](https://www.tausight.com/unlocking-data-security-data-loss-prevention-to-ai/)
 
