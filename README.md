@@ -19,3 +19,17 @@ My research primarily centers on the practical use of ML and NLP, with an emphas
 In the healthcare domain, I deal with various methodological challenges. These include predicting diseases, making ML models more interpretable, tracking and detecting medical entities, and ensuring the trustworthiness of model outputs. 
 
 Another exciting aspect of my research is dedicated to creating language technologies that can automate or semi-automate the detection and protection of Personal Health Identifiable (PHI) information. This work has led to some intriguing developments.
+
+
+🎬 Videos
+- IE 7300 - [Statistical Learning In Engineering](https://www.youtube.com/watch?v=n4O1YGm7gNI&list=PLcS4TrUUc53KRbf5iPBYRb5Vs8TmtVZOK)
+- IE 7374 - [Machine Learning In Operation](https://www.youtube.com/watch?v=KOpbqgvT-10&list=PLcS4TrUUc53LeKBIyXAaERFKBJ3dvc9GZ) 
+
+
+📕  Latest Blog Posts
+
+How to prevent GitHub from suspending your cronjob based triggers
+How I built one of the top 20 most used Github Actions
+Show your latest dev.to posts automatically on your GitHub profile readme
+God Mode in browsers: document.designMode = "on"
+Skipping the Chrome "Your connection is not private" warning
