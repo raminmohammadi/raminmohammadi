@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some cool stuff and Tausight and also am develpoing Gen-AI (IE7374) and NLP (IE7500) courses.
-- 🌱 I’m currently learning so manythings 🤣
+- 🌱 I’m currently learning so many things 🤣
 - 👯 I’m looking to collaborate on [MLOPS](https://github.com/raminmohammadi/MLOps) repo.
 - 📫 How to reach me: R.mohammadi@northeastern.edu
 - 👨‍💻  Read more about my projects at Tausight
