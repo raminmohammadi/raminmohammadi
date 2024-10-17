@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: R.mohammadi@northeastern.edu
 - 👨‍💻  Read more about my projects at Tausight
 - 🌐 Visti my website for learnig materials on ML and MLOPs [MLwithRamin](https://www.mlwithramin.com/) 
-- ⚡ Fun fact: Love ma 🐶 and 💪
+- ⚡ Fun fact: Love my 🐶 and <a href="https://emoji.gg/emoji/5554-fabulouscat"><img src="https://cdn3.emoji.gg/emojis/5554-fabulouscat.gif" width="64px" height="64px" alt="FabulousCat"></a> and 💪
 
 
 ✨  About Me
