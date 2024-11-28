@@ -30,6 +30,7 @@ Explore my repositories to find projects that showcase my work in ML, NLP, MLOps
 
 
 📕  Latest Blog Posts
+ - [Northeastern's Career Resilience in the Age of A](https://www.youtube.com/watch?v=vMQOZDuqOVI)
  - [Edge Based AI Solution for Healthcare Organizations](https://www.tausight.com/tausight-edge-based-ai-solution-healthcare-organizations/)
  - [Unlocking Data Security: From Data Loss Prevention to AI Revolution](https://www.tausight.com/unlocking-data-security-data-loss-prevention-to-ai/)
 
