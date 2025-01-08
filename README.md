@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some cool stuff. 
 - 🌱 I’m currently learning so many things 🤣
-- 👯 I’m looking to collaborate on [MLOPS](https://github.com/raminmohammadi/MLOps) repo.
+- 👯 I’m looking to collaborate on [MLOPS](https://github.com/raminmohammadi/MLOps) , [Gen-AI](https://github.com/raminmohammadi/GEN-AI) and [NLP](https://github.com/raminmohammadi/NLP) repos.
 - 📫 How to reach me: R.mohammadi@northeastern.edu
 - 👨‍💻  Read more about my projects at Tausight
 - 🌐 Visti my website for learnig materials on ML and MLOPs [MLwithRamin](https://www.mlwithramin.com/) 
