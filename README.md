@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 
 ✨  About Me
 
-I’m an Adjunct Professor at Northeastern University in the College of Engineering, where my work revolves around the exciting fields of Machine Learning (ML), Natural Language Processing (NLP), MLOps, and Generative AI, with a particular focus on their applications in healthcare.
+I’m an Adjunct Professor at Northeastern University in the College of Engineering, where my work revolves around the exciting fields of Machine Learning (ML), Natural Language Processing (NLP), MLOps, and Generative AI.
 
-My research primarily centers on the practical use of ML and NLP, emphasizing their real-world applications in healthcare and the essential area of healthcare cybersecurity. In the healthcare domain, I tackle various methodological challenges, including predicting diseases, making ML models more interpretable, tracking and detecting medical entities, and ensuring the trustworthiness of model outputs.
+My research primarily centers on the practical use of AI, emphasizing their real-world applications in healthcare and the essential area of healthcare cybersecurity. In the healthcare domain, I tackle various methodological challenges, including predicting diseases, making ML models more interpretable, tracking and detecting medical entities, and ensuring the trustworthiness of model outputs.
 
 A significant aspect of my work is dedicated to developing innovative language technologies that automate or semi-automate the detection and protection of Personal Health Identifiable (PHI) information. This endeavor has led to some fascinating developments that contribute to enhancing healthcare data security.
 
