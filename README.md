@@ -37,6 +37,7 @@ Explore my repositories to find projects that showcase my work in ML, NLP, MLOps
 
 
 #### Awards and Achievements
+- Intel Ignite Alumni - [Intel Ignite](https://www.linkedin.com/feed/update/urn:li:activity:7211386621865119744/)
 - Finalist of the Boston Scientific Callenge at Google [Final Round Video](https://www.youtube.com/watch?v=DbMRhB13zmg&t=1s)
 - Akira Yamamura Excellence in Research Award - Northeastern University
 - Achieved PhD Spotlight at Northeastern University - [PhD Spotlight](https://coe.northeastern.edu/news/phd-spotlight-ramin-mohammadi-phd20-industrial-engineering/)
