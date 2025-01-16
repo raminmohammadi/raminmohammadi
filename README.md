@@ -27,6 +27,7 @@ Explore my repositories to find projects that showcase my work in ML, NLP, MLOps
 🎬 [YouTube Channel](https://www.youtube.com/@MLWithRamin)
 - IE 7300 - [Statistical Learning In Engineering](https://www.youtube.com/watch?v=n4O1YGm7gNI&list=PLcS4TrUUc53KRbf5iPBYRb5Vs8TmtVZOK)
 - IE 7374 - [Generative AI](https://youtube.com/playlist?list=PLcS4TrUUc53KgbWo5-IthnqhQbQXGvYgL&si=kJJz8P8wPnCIIxut)
+- IE 7374 - [Generative AI - Labs](https://youtube.com/playlist?list=PLcS4TrUUc53JJ8l6XWxGw4tsdfuGrSIvJ&si=sr6dCHQeNTlFztQW)
 - IE 7374 - [Machine Learning In Operation](https://www.youtube.com/watch?v=uMbCOUvf3qI&list=PLcS4TrUUc53Kgpt7H9pto9ZhmoBQ24zOg)
 - IE 7374 Labs - [Machine Learning In Operation - Labs](https://www.youtube.com/watch?v=KOpbqgvT-10&list=PLcS4TrUUc53LeKBIyXAaERFKBJ3dvc9GZ) 
 
