@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 
 ✨  About Me
 
-I’m an Adjunct Professor at Northeastern University in the College of Engineering, where my work revolves around the exciting fields of Machine Learning (ML), Natural Language Processing (NLP), MLOps, and Generative AI.
-Beyond academia, I am passionate about bridging the gap between cutting-edge research and practical implementations. 
+I’m an AI/ML engineer and technical leader with over 8 years of experience building scalable machine learning systems across domains like healthcare, cybersecurity, and enterprise automation. My work spans end-to-end ML pipelines, federated learning, NLP, MLOps, and Generative AI—from architecting infrastructure to deploying models in production environments with tight privacy and compliance constraints.
 
-Explore my repositories to find projects that showcase my work in ML, NLP, MLOps, and Generative AI, and feel free to reach out for collaboration or discussions on these thrilling subjects. Let's drive innovation and make a difference together!
+I’ve led cross-functional ML teams, developed LLM-powered automation agents, built streaming data pipelines, and helped drive AI-first product strategy through fast, high-impact iterations. My focus is always on bridging the gap between research and real-world implementation.
+
+I also serve as an Adjunct Professor at Northeastern University, where I teach graduate and Ph.D.-level courses in Machine Learning, MLOps, NLP, and Generative AI. I lead a team of teaching assistants, mentor project-based learning at scale, and help students land roles in applied AI.
+
+Explore my repositories to find work in MLOps, Generative AI, RAG pipelines, and NLP, and feel free to reach out if you’d like to collaborate or geek out about building real, production-ready AI systems.
 
 
 🎬 [YouTube Channel](https://www.youtube.com/@MLWithRamin)
