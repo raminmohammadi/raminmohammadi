@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ✨  About Me
 
-![Resume](Ramin_Resume.png)
+<img src="Ramin_Resume.png" alt="Resume" width="400"/>
 
 
 I’m an AI/ML engineer and technical leader with over 8 years of experience building scalable machine learning systems across domains like healthcare, cybersecurity, and enterprise automation. My work spans end-to-end ML pipelines, federated learning, NLP, MLOps, and Generative AI—from architecting infrastructure to deploying models in production environments with tight privacy and compliance constraints.
