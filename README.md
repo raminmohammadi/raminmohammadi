@@ -25,6 +25,10 @@ Explore my repositories to find work in MLOps, Generative AI, RAG pipelines, and
 
 ![Ramin's GitHub stats](https://github-readme-stats.vercel.app/api?username=raminmohammadi&show_icons=true&theme=dark)
 
+🎬 [Cousera]
+- [generative-ai-foundations-and-concepts](https://www.coursera.org/learn/generative-ai-foundations-and-concepts)
+
+
 🎬 [YouTube Channel](https://www.youtube.com/@MLWithRamin)
 - IE 7300 - [Statistical Learning In Engineering](https://www.youtube.com/watch?v=n4O1YGm7gNI&list=PLcS4TrUUc53KRbf5iPBYRb5Vs8TmtVZOK)
 - IE 7374 - [Generative AI](https://youtube.com/playlist?list=PLcS4TrUUc53KgbWo5-IthnqhQbQXGvYgL&si=kJJz8P8wPnCIIxut)
