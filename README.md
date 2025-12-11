@@ -54,7 +54,7 @@ Explore my repositories to find work in MLOps, Generative AI, RAG pipelines, and
 ### Practical AI 340: The AI engineer skills gap
 Listen to the episode using the link below:
 
-![Practical AI 273](practical_ai_340.png)
+<img src="practical_ai_340.png" alt="Practical AI 273" width="50%"/>
 
 [Practical AI 340: The AI engineer skills gap](https://practicalai.fm/340)
 
