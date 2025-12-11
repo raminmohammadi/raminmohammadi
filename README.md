@@ -51,7 +51,7 @@ Explore my repositories to find work in MLOps, Generative AI, RAG pipelines, and
 - Akira Yamamura Excellence in Research Award - Northeastern University
 - Achieved PhD Spotlight at Northeastern University - [PhD Spotlight](https://coe.northeastern.edu/news/phd-spotlight-ramin-mohammadi-phd20-industrial-engineering/)
 
-### Practical AI 340: The AI engineer skills gap
+### [Practical AI 340: The AI engineer skills gap](https://practicalai.fm/340)
 Listen to the episode using the link below:
 
 <img src="practical_ai_340.png" alt="Practical AI 273" width="65%"/>
