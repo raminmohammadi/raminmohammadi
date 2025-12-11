@@ -25,7 +25,7 @@ Explore my repositories to find work in MLOps, Generative AI, RAG pipelines, and
 
 ![Ramin's GitHub stats](https://github-readme-stats.vercel.app/api?username=raminmohammadi&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=raminmohammadi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raminmohammadi)](https://git.io/streak-stats)
 
 🎬 [Cousera]
 - [Generative AI Foundations And Concepts](https://www.coursera.org/learn/generative-ai-foundations-and-concepts)
