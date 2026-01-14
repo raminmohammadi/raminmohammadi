@@ -23,6 +23,10 @@ I also serve as an Adjunct Professor at Northeastern University, where I teach g
 
 Explore my repositories to find work in MLOps, Generative AI, RAG pipelines, and NLP, and feel free to reach out if you’d like to collaborate or geek out about building real, production-ready AI systems.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=raminmohammadi/raminmohammadi,raminmohammadi/MLOps,raminmohammadi/ai-agent-smart-assist,raminmohammadi/GEN-AI,raminmohammadi/NLP&type=date&legend=top-left)](https://www.star-history.com/#raminmohammadi/raminmohammadi&raminmohammadi/MLOps&raminmohammadi/ai-agent-smart-assist&raminmohammadi/GEN-AI&raminmohammadi/NLP&type=date&legend=top-left)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=raminmohammadi)](https://git.io/streak-stats)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raminmohammadi" alt="GitHub Streak" /></a>
