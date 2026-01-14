@@ -23,7 +23,7 @@ I also serve as an Adjunct Professor at Northeastern University, where I teach g
 
 Explore my repositories to find work in MLOps, Generative AI, RAG pipelines, and NLP, and feel free to reach out if you’d like to collaborate or geek out about building real, production-ready AI systems.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raminmohammadi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=raminmohammadi)](https://git.io/streak-stats)
 
 🎬 [Cousera]
 - [Generative AI Foundations And Concepts](https://www.coursera.org/learn/generative-ai-foundations-and-concepts)
