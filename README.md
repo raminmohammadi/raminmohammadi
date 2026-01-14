@@ -25,6 +25,8 @@ Explore my repositories to find work in MLOps, Generative AI, RAG pipelines, and
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raminmohammadi)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raminmohammadi" alt="GitHub Streak" /></a>
+
 🎬 [Cousera]
 - [Generative AI Foundations And Concepts](https://www.coursera.org/learn/generative-ai-foundations-and-concepts)
 - [NLP In Engineering](https://www.coursera.org/learn/nlp-in-engineering-concepts--real-world-applications)
@@ -35,12 +37,6 @@ Explore my repositories to find work in MLOps, Generative AI, RAG pipelines, and
 - IE 7374 - [Generative AI - Labs](https://youtube.com/playlist?list=PLcS4TrUUc53JJ8l6XWxGw4tsdfuGrSIvJ&si=sr6dCHQeNTlFztQW)
 - IE 7374 - [Machine Learning In Operation](https://www.youtube.com/watch?v=uMbCOUvf3qI&list=PLcS4TrUUc53Kgpt7H9pto9ZhmoBQ24zOg)
 - IE 7374 Labs - [Machine Learning In Operation - Labs](https://www.youtube.com/watch?v=KOpbqgvT-10&list=PLcS4TrUUc53LeKBIyXAaERFKBJ3dvc9GZ) 
-
-
-📕  Latest Blog Posts
- - [Northeastern's Career Resilience in the Age of A](https://www.youtube.com/watch?v=vMQOZDuqOVI)
- - [Edge Based AI Solution for Healthcare Organizations](https://www.tausight.com/tausight-edge-based-ai-solution-healthcare-organizations/)
- - [Unlocking Data Security: From Data Loss Prevention to AI Revolution](https://www.tausight.com/unlocking-data-security-data-loss-prevention-to-ai/)
 
 
 #### Awards and Achievements
@@ -54,11 +50,10 @@ Listen to the episode using the link above:
 
 <img src="practical_ai_340.png" alt="Practical AI 273" width="65%"/>
 
-
 ### [Practical AI 273: Using edge models to find sensitive data](https://changelog.com/practicalai/273)
 Listen to the episode using the link above:
 
 ![Practical AI 273](practical_ai.png)
 
-
+### [Northeastern's Career Resilience in the Age of A](https://www.youtube.com/watch?v=vMQOZDuqOVI)
 
