@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 📫 Open to collaboration on SSL-AI research.
-- 🔭 I’m currently working on some cool stuff. 
+- 🔭 I’m currently working on Reachy Mini. 
 - 🌱 I’m currently learning so many things 🤣
 - 🕺🏻I’m looking to collaborate on [MLOPS](https://github.com/raminmohammadi/MLOps) , [Gen-AI](https://github.com/raminmohammadi/GEN-AI), [NLP](https://github.com/raminmohammadi/NLP) and [GradientBluePrint](https://github.com/raminmohammadi/GradientBlueprint) repos.
 - 📫 How to reach me: R.mohammadi@northeastern.edu
