@@ -27,10 +27,6 @@ Explore my repositories to find work in MLOps, Generative AI, RAG pipelines, and
 
 [![Star History Chart](https://api.star-history.com/svg?repos=raminmohammadi/raminmohammadi,raminmohammadi/MLOps,raminmohammadi/ai-agent-smart-assist,raminmohammadi/GEN-AI,raminmohammadi/NLP&type=date&legend=top-left)](https://www.star-history.com/#raminmohammadi/raminmohammadi&raminmohammadi/MLOps&raminmohammadi/ai-agent-smart-assist&raminmohammadi/GEN-AI&raminmohammadi/NLP&type=date&legend=top-left)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raminmohammadi)](https://git.io/streak-stats)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raminmohammadi" alt="GitHub Streak" /></a>
-
 🎬 [Cousera]
 - [Generative AI Foundations And Concepts](https://www.coursera.org/learn/generative-ai-foundations-and-concepts)
 - [NLP In Engineering](https://www.coursera.org/learn/nlp-in-engineering-concepts--real-world-applications)
