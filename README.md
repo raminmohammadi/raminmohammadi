@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning so many things 🤣
 - 🕺🏻I’m looking to collaborate on [MLOPS](https://github.com/raminmohammadi/MLOps) , [Gen-AI](https://github.com/raminmohammadi/GEN-AI), [NLP](https://github.com/raminmohammadi/NLP) and [GradientBluePrint](https://github.com/raminmohammadi/GradientBlueprint) repos.
 - 📫 How to reach me: R.mohammadi@northeastern.edu
-- ⚡ Fun fact: Love my 🐶 and <a href="https://emoji.gg/emoji/5554-fabulouscat"><img src="https://cdn3.emoji.gg/emojis/5554-fabulouscat.gif" width="64px" height="64px" alt="FabulousCat"></a> and 💪
+- ⚡ Fun fact: Love my 🐶, cat and 💪
 
 
 ✨  About Me
